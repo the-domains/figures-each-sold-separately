@@ -1,4 +1,6 @@
 typography_spectrum: 0.001965339295566082
+content_rating:
+  adult: false
 color:
   brandStrength: 0.4237093385308981
   lightness: 0.4207084442023188
@@ -11,6 +13,9 @@ color:
     - '#2667FF'
     - '#3B28CC'
 layout_spectrum: 0.7591817639768124
+author:
+  name: Larry Hohoho
+  email: larryhohoho@gmail.com
 name: Figures Each Sold Separately
 title: Love. Life & Action Figures
 description: The Man Who Dies with the Most Toys Dies Happy...
