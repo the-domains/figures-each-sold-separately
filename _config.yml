@@ -1,4 +1,3 @@
-layout_spectrum: 0.7591817639768124
 typography_spectrum: 0.001965339295566082
 color:
   brandStrength: 0.4237093385308981
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.7591817639768124
 name: Figures Each Sold Separately
 title: Love. Life & Action Figures
+description: The Man Who Dies with the Most Toys Dies Happy...
